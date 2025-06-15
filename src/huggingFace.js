@@ -5,7 +5,7 @@ export async function query() {
 		"https://router.huggingface.co/fal-ai/fal-ai/fast-sdxl",
 		{
 			headers: {
-				Authorization: `Bearer ${import.meta.env.VITE_HF_API_KEY}`,
+				Authorization: "Bearer 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",
 				"Content-Type": "application/json",
 			},
 			method: "POST",
