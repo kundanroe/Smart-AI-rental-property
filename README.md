@@ -49,20 +49,20 @@ This platform allows tenants to browse, filter, and view property listings, whil
    ```bash
    git clone https://github.com/yourusername/Smart-ai-rental-property.git
    cd Smart-ai-rental-property
-Install dependencies:
-npm install
+2. Install dependencies:
+   npm install
 
-Set up API Keys
-Put your Gemini and HuggingFace API secret keys respectively in:
-gemini.js
-HuggingFace.js
-⚠️ Important: Never commit your secret API keys to public repositories.
+3. Set up API Keys
+   Put your Gemini and HuggingFace API secret keys respectively in:
+   gemini.js
+   HuggingFace.js
+  ⚠️ Important: Never commit your secret API keys to public repositories.
 
-Start development server:
-npm run dev
+4. Start development server:
+   npm run dev
 
-Open in browser:
-http://localhost:3000
+5. Open in browser:
+   http://localhost:3000
 
 
 📊 Project Impact
